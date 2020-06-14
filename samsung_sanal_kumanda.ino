@@ -27,7 +27,7 @@ char auth[] = "qvewZqVaZ_aqhS5dvdrfx6FrihEJ7jQ1";
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "projenet";
-char pass[] = "227986ia"; // kendi WİFİ parolanızı bu kısma giriyorsunuz.
+char pass[] = "xxxxxxxx"; // kendi WİFİ parolanızı bu kısma giriyorsunuz.
 
 boolean Ac;
 boolean kapat;
